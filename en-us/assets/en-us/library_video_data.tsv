@@ -5,15 +5,15 @@
 # 테스트할기기의Movies/Library에tsv파일과thumbnail,동영상파일을복사해넣습니다.					
 # Category field는코드에서사용하는부분이기때문에한번추가되면변경하지마시고categoryname을변경해주시기바랍니다					
 #id	category	categoryname	title	thumbnail	filename
-tutorial1	tutorial	How to use Kitkit school	Welcome to Kitkit School	en_welcome.png	https://www.youtube.com/watch?v=zgMu0wa0Zv4&list=PLXBsaP2LnLyMPIGFekta7tSp9q3F6ryPy&index=1&t=0s
-tutorial2	tutorial	How to use Kitkit school	How to use the tablet	tutorial1.png	https://www.youtube.com/watch?v=tKyb_LBEO7k&list=PLXBsaP2LnLyMPIGFekta7tSp9q3F6ryPy&index=2&t=0s
-tutorial3	tutorial	How to use Kitkit school	How to care for the tablet	tutorial2.png	https://www.youtube.com/watch?v=cSRwAqojduc&list=PLXBsaP2LnLyMPIGFekta7tSp9q3F6ryPy&index=3&t=0s
-tutorial4	tutorial	How to use Kitkit school	How to charge the tablet	tutorial3.png	https://www.youtube.com/watch?v=kuV4-4KTWMM&list=PLXBsaP2LnLyMPIGFekta7tSp9q3F6ryPy&index=4&t=0s
-tutorial5	tutorial	How to use Kitkit school	How to use the game in school	tutorial4.png	https://www.youtube.com/watch?v=tRIOCQXsM7g&list=PLXBsaP2LnLyMPIGFekta7tSp9q3F6ryPy&index=5&t=0s
-tutorial6	tutorial	How to use Kitkit school	Kitkit School Gameplay?	logo_en.png	https://www.youtube.com/watch?v=SbjUUyLa5cA&list=PLXBsaP2LnLyMPIGFekta7tSp9q3F6ryPy&index=6&t=0s
-tutorial7	tutorial	How to use Kitkit school	How to use the e-book	book_vdo_en.png	https://www.youtube.com/watch?v=qWg2jEP-9pM&list=PLXBsaP2LnLyMPIGFekta7tSp9q3F6ryPy&index=7&t=0s
-tutorial8	tutorial	How to use Kitkit school	How to use the tools	tutorial7.png	https://www.youtube.com/watch?v=W_a9F6spPNU&list=PLXBsaP2LnLyMPIGFekta7tSp9q3F6ryPy&index=8&t=0s
-tutorial9	tutorial	How to use Kitkit school	How to use the library	tutorial8.png	https://www.youtube.com/watch?v=uHQLc-Q-SZc&list=PLXBsaP2LnLyMPIGFekta7tSp9q3F6ryPy&index=9&t=0s
+tutorial1	tutorial	How to use Pehla School	Welcome to Pehla School	en_welcome.png	https://www.youtube.com/watch?v=zgMu0wa0Zv4&list=PLXBsaP2LnLyMPIGFekta7tSp9q3F6ryPy&index=1&t=0s
+tutorial2	tutorial	How to use Pehla School	How to use the tablet	tutorial1.png	https://www.youtube.com/watch?v=tKyb_LBEO7k&list=PLXBsaP2LnLyMPIGFekta7tSp9q3F6ryPy&index=2&t=0s
+tutorial3	tutorial	How to use Pehla School	How to care for the tablet	tutorial2.png	https://www.youtube.com/watch?v=cSRwAqojduc&list=PLXBsaP2LnLyMPIGFekta7tSp9q3F6ryPy&index=3&t=0s
+tutorial4	tutorial	How to use Pehla School	How to charge the tablet	tutorial3.png	https://www.youtube.com/watch?v=kuV4-4KTWMM&list=PLXBsaP2LnLyMPIGFekta7tSp9q3F6ryPy&index=4&t=0s
+tutorial5	tutorial	How to use Pehla School	How to use the game in school	tutorial4.png	https://www.youtube.com/watch?v=tRIOCQXsM7g&list=PLXBsaP2LnLyMPIGFekta7tSp9q3F6ryPy&index=5&t=0s
+tutorial6	tutorial	How to use Pehla School	Pehla School Gameplay?	logo_en.png	https://www.youtube.com/watch?v=SbjUUyLa5cA&list=PLXBsaP2LnLyMPIGFekta7tSp9q3F6ryPy&index=6&t=0s
+tutorial7	tutorial	How to use Pehla School	How to use the e-book	book_vdo_en.png	https://www.youtube.com/watch?v=qWg2jEP-9pM&list=PLXBsaP2LnLyMPIGFekta7tSp9q3F6ryPy&index=7&t=0s
+tutorial8	tutorial	How to use Pehla School	How to use the tools	tutorial7.png	https://www.youtube.com/watch?v=W_a9F6spPNU&list=PLXBsaP2LnLyMPIGFekta7tSp9q3F6ryPy&index=8&t=0s
+tutorial9	tutorial	How to use Pehla School	How to use the library	tutorial8.png	https://www.youtube.com/watch?v=uHQLc-Q-SZc&list=PLXBsaP2LnLyMPIGFekta7tSp9q3F6ryPy&index=9&t=0s
 mv1	music_video	Learning Songs	Colorful Shapes	shapes.png	en_vdo_shapes.mp4
 mv2	music_video	Learning Songs	100 Little Chickens	100chickens.png	en_vdo_100chickens.mp4
 mv3	music_video	Learning Songs	Vowels	vowels.png	en_vdo_vowel.mp4
